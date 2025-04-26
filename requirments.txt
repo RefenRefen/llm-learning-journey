@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+accelerate
+tokenizers
+sentencepiece
+torch
+faiss-cpu
+langchain
+wandb
